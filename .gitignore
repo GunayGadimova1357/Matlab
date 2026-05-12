@@ -31,7 +31,7 @@ slprj/
 *.p
 *.log
 
-# App Designer (временные файлы сборки)
+# App Designer 
 *.bak-mlapp
 
 # Результаты тестов и отчеты
