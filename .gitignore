@@ -37,3 +37,11 @@ slprj/
 # Результаты тестов и отчеты
 test_results/
 html/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+*.cache
